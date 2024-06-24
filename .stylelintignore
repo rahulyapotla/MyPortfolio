@@ -1,0 +1,6 @@
+src/serviceWorker.ts
+src/react-app-env.d.ts
+node_modules/*
+.cache
+src/theme.ts
+build/*

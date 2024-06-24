@@ -1,0 +1,6 @@
+.cache
+package.json
+package-lock.json
+build/*
+src/serviceWorker.ts
+node_modules/*
