@@ -9,7 +9,7 @@ export const Styles = styled.div`
 
     .grid-container {
         display: grid;
-        grid-template-columns: 50% 2fr;
+        grid-template-columns: 45% 2fr;
         grid-gap: 30px;
 
         @media (max-width: 900px) {
@@ -27,7 +27,7 @@ export const Styles = styled.div`
         img.profile-image {
             display: block;
             margin: auto;
-            height: 30rem;
+            height:25rem;
             width: 20rem;
             border-radius: 10px;
             justify-content: center;

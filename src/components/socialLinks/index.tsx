@@ -9,9 +9,6 @@ import githubOriginal from "../../static/github_original.svg";
 import linkedinOriginal from "../../static/linkedin_original.svg";
 
 // @ts-ignore
-import twitterOriginal from "../../static/twitter_original.svg";
-
-// @ts-ignore
 import leetcodeOriginal from "../../static/leetcode_original.png";
 
 import {Styles} from "./styles";

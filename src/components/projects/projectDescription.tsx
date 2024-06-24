@@ -6,6 +6,7 @@ import { ProjectDescriptionStyles } from "./styles";
 import { projects } from "./projectsarray";
 
 const ProjectDescription: FunctionComponent = () => {
+    //@ts-ignore
     const { name, type } = useParams();
     const history = useHistory();
 

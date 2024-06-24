@@ -1,7 +1,6 @@
 import styled from "styled-components/macro";
 
-// @ts-ignore
-import homePage from "../../static/homePage.jpeg";
+
 
 export const Styles = styled.div`
     height: 100%;

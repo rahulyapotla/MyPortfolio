@@ -22,10 +22,6 @@ const AboutMe: FunctionComponent = () => (
         <div>
             Check few of my Projects <Link to="/projects/">here</Link>.
         </div>
-        <br />
-        <div>
-            Please <Link to="/contact/">Contact Me</Link> if you want to work together.
-        </div>
     </div>
 );
 

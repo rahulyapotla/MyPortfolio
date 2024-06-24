@@ -5,7 +5,6 @@ import { Button } from "../Button"
 
 // @ts-ignore
 import profile from "../../static/profile.jpeg";
-import AboutMe from "../about/aboutme"
 
 
 const Home: FunctionComponent = () => {
