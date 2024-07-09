@@ -59,13 +59,13 @@ export const projects = {
                     </div>
                     <ul>
                         <li>
-                            Users can manually select a algorithm from the given list of algorithms.
+                            In my role as a Teaching Assistant for a Software Engineering course, I identified a need for a more engaging way to explain sorting algorithms. 
+                            To address this, I built a sorting algorithm visualizer using React and CSS animations. 
                         </li>
                         <li>
-                            We can even add custom data and visualize the respective alogorithm.
-                        </li>
-                        <li>
-                            We can intialize the array either in increasing, decreasing, random (or) almost sorted manner.
+                            This interactive tool allows students to observe step-by-step how algorithms like Merge Sort rearrange data in real-time. 
+                            By visualizing the mechanics and efficiency of different sorting algorithms, 
+                            the tool enhances student understanding of sorting logic and algorithmic complexity in a clear and engaging way.
                         </li>
                     </ul>
                 </div>`,
@@ -85,14 +85,14 @@ export const projects = {
                     </div>
                     <ul>
                         <li>
-                            Users can manually select a algorithm from the given list of algorithms.
+                            This app has been built with React and Material UI, offers a user-friendly experience that lets you breeze through the booking process. 
+                            You browse the menu with ease, thanks to React's efficient functionality, and reserve the perfect table with just a few taps on your phone.
                         </li>
                         <li>
-                            We can even add custom data and visualize the respective alogorithm.
+                            The beautiful Material UI design makes everything visually appealing. 
+                            When you arrive at the restaurant, your table is ready, and you can even use the app to order food directly, avoiding any unnecessary wait.
                         </li>
-                        <li>
-                            We can intialize the array either in increasing, decreasing, random (or) almost sorted manner.
-                        </li>
+                       
                     </ul>
                 </div>`,
             allImages: [dummyImage, dummyImage, dummyImage],
