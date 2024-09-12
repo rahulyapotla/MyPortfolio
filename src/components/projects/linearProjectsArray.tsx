@@ -76,6 +76,32 @@ export const projects = {
         },
         {
             image: dummyImage,
+            name: "pantry-tracker",
+            displayName: "Pantry Pilot",
+            technologies: ["Next JS"],
+            description: `<div>
+                    <div style="font-weight: bold">
+                        Features
+                    </div>
+                    <ul>
+                        <li>
+                           Developed a Pantry Tracking App using Next.js and Firebase, allowing users to add and track their pantry items with real-time updates.
+                        </li>
+                        <li>
+                            Integrated Firebase Firestore for storing and managing pantry data, and Firebase Authentication for user login and authentication.
+                            Deployed the app on Vercel, ensuring seamless continuous deployment and high performance.
+                            Utilized Next.js dynamic routing for a smooth user experience and integrated real-time data synchronization between the app and database.
+                            Implemented user-friendly CRUD functionality for adding, updating, and removing pantry items. 
+                        </li>
+                    </ul>
+                </div>`,
+            allImages: [dummyImage, dummyImage, dummyImage],
+            //demoURL: "https://github.com/rahulyapotla/pantry-tracker-app",
+            github: "https://github.com/rahulyapotla/pantry-tracker-app",
+            type: "REACT"
+        },
+        {
+            image: dummyImage,
             name: "table_booking_app",
             displayName: "Table Booking App",
             technologies: ["React JS"],
